@@ -1,6 +1,6 @@
 # CTG1-Aula-11 - Exercício para se habituar com o GIT - Incluir uma citação que goste
 
-"The roots of education are bitter, but the fruit is sweet." (Aristotle)
+"The roots of education are bitter, but the fruit is sweet." - (Aristotle)
 
 \*(A única maneira de não cometer erros é fazendo nada. Este, no entanto, é certamente um dos maiores erros que se poderia cometer em toda uma existência.)
 Obs. OBRIGADA TAINA por compartilhar seu documento com passo-a-passo do git, sem dúvida me ajudou bastante. Galerinha do grupo, obrigada por ter a disposição em ajudar a coleguinha atrapalhada...rs.
